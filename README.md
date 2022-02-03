@@ -4,6 +4,7 @@
 [![codecov](https://codecov.io/gh/distbuild/web/branch/main/graph/badge.svg?token=FS77A6KD37)](https://codecov.io/gh/distbuild/web)
 [![License](https://img.shields.io/github/license/distbuild/web.svg)](https://github.com/distbuild/web/blob/main/LICENSE)
 [![Tag](https://img.shields.io/github/tag/distbuild/web.svg)](https://github.com/distbuild/web/tags)
+[![Gitter chat](https://badges.gitter.im/craftslab/distbuild.png)](https://gitter.im/craftslab/distbuild)
 
 
 
