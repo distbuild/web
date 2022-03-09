@@ -6,6 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build-prod": "vite build",
+    "build-test": "vite build",
     "preview": "vite preview",
     "lint": "eslint --ext .js,.vue ./",
     "test": "nyc mocha",
